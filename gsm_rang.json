@@ -11,7 +11,7 @@
     "min": 200,
     "max": 300
   },
-  "linen_medium_heavy": {
+  "linen": {
     "min": 150,
     "max": 250
   },

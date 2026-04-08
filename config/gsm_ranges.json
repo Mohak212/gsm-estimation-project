@@ -1,7 +1,22 @@
 {
-  "heavyweight_cotton": { "min": 245, "max": 265 },
-  "mediumweight_cotton": { "min": 150, "max": 170 },
-  "lightweight_cotton": { "min": 85, "max": 105 },
-  "linen": { "min": 172, "max": 190 },
-  "heavyweight_denim": { "min": 300, "max": 400 }
+  "lightweight_cotton": {
+    "min": 80,
+    "max": 140
+  },
+  "mediumweight_cotton": {
+    "min": 150,
+    "max": 200
+  },
+  "heavyweight_cotton": {
+    "min": 200,
+    "max": 300
+  },
+  "linen": {
+    "min": 150,
+    "max": 250
+  },
+  "heavyweight_denim": {
+    "min": 350,
+    "max": 480
+  }
 }
